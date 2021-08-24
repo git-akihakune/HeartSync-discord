@@ -2,7 +2,7 @@
 
 ![Facebook avatar image](https://scontent.fhan2-2.fna.fbcdn.net/v/t1.6435-9/206655953_403676684598926_2393075570746251864_n.png?_nc_cat=111&ccb=1-5&_nc_sid=973b4a&_nc_ohc=C17rj_188OkAX_9ItAa&_nc_ht=scontent.fhan2-2.fna&oh=3099dd882bdaa7e89723a094538ec313&oe=614A3ACC)
 
-*Hiện tại chưa có bản hướng dẫn tiếng Việt.*
+*Hoặc đọc [bản hướng dẫn bằng tiếng Việt](vi/README-vi.md)*
 
 # TOC
 - [What is HeartSync?](#what-is-heartsync)
@@ -40,6 +40,7 @@ None... Hope this field can be filled soon.
 
 ## How is it different from Messenger version?
 It's completely open source, therefore, it provide more anonymity. I can't make the Messenger version open source, since I'm not its original author.
+<br/>
 I'm still finding a way to implement more features, and here are some that I'm dealing with:
 - It'll support anonymous group chat
 - It'll have some text-based games that can be played in the middle of a chat session
@@ -50,6 +51,12 @@ The bot use discord.py, and binaries for non-tech users will be released after t
 
 ## Support and feedback
 If you have any problem, please create an issue in [issues](https://github.com/git-akihakune/HeartSync-discord/issues) tab, I'll try to fix it as soon as possible.
+<br>
+
 If you want to contact, make a request, send comments or feedback, you can directly send a message via [the Facebook page](https://www.facebook.com/adaptHeartSync), or through ```/feedback``` function that's going to be implemented later.
+<br>
+
 If you want to contribute to the project, you can [open a pull request](https://github.com/git-akihakune/HeartSync-discord/pulls) and I'll reply as fast as I can.
+<br>
+
 If you want to support the project, you can help extending the user base, frequently send user's experience feedback, or just simply send a "Thank you" through the [Facebook page](https://www.facebook.com/adaptHeartSync), I'll be very appreciated!
