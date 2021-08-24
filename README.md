@@ -5,12 +5,12 @@
 *Hiện tại chưa có bản hướng dẫn tiếng Việt.*
 
 # TOC
-- [What is HeartSync?](#what-is-heartsync?)
-- [How does it works?](#how-does-it-work?)
+- [What is HeartSync?](#what-is-heartsync)
+- [How does it works?](#how-does-it-work)
 - [Usage](#usage)
 - [Installation](#installation)
 - [Currently available features](#currently-available-features)
-- [How is it different from Messenger version?](#how-is-it-different-from-messenger-version?)
+- [How is it different from Messenger version?](#how-is-it-different-from-messenger-version)
 - [Technology](#technology)
 - [Support and feedback](#support-and-feedback)
 ## What is HeartSync?
