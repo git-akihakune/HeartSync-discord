@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import sys
-import datetime
 
 try:
     import discord
@@ -12,6 +11,7 @@ except ImportError:
 try:
     from features import loadconfig
     from features import colourlogging
+    from features import models
 except ImportError:
     sys.stderr.write("Feature packages cannot be loaded. Please check if you've got a broken installation.")
     sys.exit()
@@ -29,16 +29,7 @@ def boot():
 
 
 
-class MyClient(discord.Client):
-    async def on_ready(self):
-        log.success(f'Logged in as {self.user} at {datetime.datetime.now()}')
-    
-    async def on_message(self, message):
-        log.info(f'Message from {message.author}: {message.content}') # for debugging
-
-
-
 if __name__ == '__main__':
     boot()
-    client = MyClient()
+    client = models.MyClient()
     client.run(token)
