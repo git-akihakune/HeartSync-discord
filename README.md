@@ -1,6 +1,6 @@
 # HeartSync - an anonymous chat service on Discord
 
-![Facebook avatar image](https://scontent.fhan2-2.fna.fbcdn.net/v/t1.6435-9/206655953_403676684598926_2393075570746251864_n.png?_nc_cat=111&ccb=1-5&_nc_sid=973b4a&_nc_ohc=C17rj_188OkAX_9ItAa&_nc_ht=scontent.fhan2-2.fna&oh=3099dd882bdaa7e89723a094538ec313&oe=614A3ACC)
+![Facebook avatar image](assets/avatar.png)
 
 *Hoặc đọc [bản hướng dẫn bằng tiếng Việt](vi/README-vi.md)*
 
